@@ -1,4 +1,4 @@
-# ShopEase - Professional E-Commerce Application
+# SportsHub - Professional E-Commerce Application
 
 A full-stack e-commerce application built with MongoDB, Node.js, and React with modern UI components.
 
